@@ -4,7 +4,7 @@
 
 - **RFC Number**: TBD
 - **Title**: Reuse Freed Memory in PEI Core AllocatePages()
-- **Status**: Draft
+- **Status**: FCP (Final Comment Period)
 
 ## Change Log
 
@@ -15,6 +15,7 @@
   exhaustion and padding-HOB reuse, expanded test coverage, selected best-fit HOB reuse for
   early and final searches, clarified PEI phase priorities and the proposed host-test scope,
   and added a SEC-to-DXE boot-phase diagram.
+- 2026-10-23: Start 14-day FCP (Final Comment Period).
 
 ## Motivation
 
